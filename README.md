@@ -1,2 +1,2 @@
-# first-project
-front end app
+# First Project
+Description
